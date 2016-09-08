@@ -28,8 +28,8 @@ int *a,n,i=0,j=0,k=0,s=0,f=0;
               if(s==a[k])
               {
                 printf("\n1st index%d\n2nd index%d\nsum is on%d",i,j,k);
-                break;
                 f=1;
+                break;
               }
              }
             }
