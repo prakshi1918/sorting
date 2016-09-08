@@ -14,7 +14,7 @@ int main()
     for(i=0;i<n-1;i++)
     {
         nm=nm^a[i+1];
-        printf("odd no of time occuring  no is %d",nm);
-    return 0;
     }
+    printf("odd no of time occuring  no is %d",nm);
+return 0;
 }
